@@ -1,0 +1,40 @@
+{
+  "files": {
+    "cogs/Love_gay_meter.py": [
+      {
+        "id": "50563ef5-682b-4353-9080-d2251d8761a5",
+        "line": 15,
+        "version": 1,
+        "index": 334
+      },
+      {
+        "id": "fde0dca3-b5ad-4817-a011-a170910cee35",
+        "line": 23,
+        "version": 1,
+        "index": 636
+      },
+      {
+        "id": "dc15fed7-bee5-4c13-9d07-2336f4de4aba",
+        "line": 72,
+        "version": 1,
+        "index": 2587
+      }
+    ],
+    "cogs/voice.py": [
+      {
+        "id": "d9cd6755-27b0-4364-93af-0d5e7b9a3c31",
+        "line": 51,
+        "version": 57,
+        "index": 1283
+      }
+    ],
+    "main.py": [
+      {
+        "id": "29af6f25-7865-4154-b423-12b86454f0aa",
+        "line": 16,
+        "version": 293,
+        "index": 336
+      }
+    ]
+  }
+}
