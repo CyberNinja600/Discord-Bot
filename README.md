@@ -13,9 +13,6 @@ o Round off: round(n,number after decimal)
 ○ Reminder: remind <time> <argument>
 
 Fun
-○ PP Machine: ppsize <@user>
-○ Gay Fortune: howgay <@user>
-○ Love Guru: lovemeter <@user>
 ○ TalkingBot: q <argument>
 ○ [Server Specific] Voice Commands: vc <argument>
 ○ [Server Specific] Show Voice List: voices
